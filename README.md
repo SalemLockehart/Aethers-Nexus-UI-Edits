@@ -1,17 +1,21 @@
 # Aether's Theme for Nexusmods
-Nexus Mods recently released an update to overhaul the UI of the site. I'm personally not a fan of the layout or cosmetic changes, so I created these UBlockOrigin filters to make the site's UI feel more like its previous iteration.
+These UBlockOrigin filters were created to make [Nexus Mods](https://www.nexusmods.com/)' new UI feel more like its previous iterations.
 
+They attempt to waste less space by reducing font size, removing unnesecary padding, UI elements, and headers. They also remove the Popular Collections and Media sections on game pages, as I felt they took away priority from newly released mods, and they can be accessed through the drop down menus at the top of the site.
 
-
-
-
-
+Additionally, some general cosmetic edits have been included, which remove the background image from Game, and Mod pages, and also fix a cosmetic issue with the upload button at non-standard browser zoom levels.
+### Preview
+### Installation
+* Install [uBlock Origin](https://ublockorigin.com/);
+* Open uBlock Origin's Dashboard, then navigate to "My Filters"
+* Copy the filters from this github repository, and paste them into your filters page.
+* Press "Apply changes"
+* Verify that the changes are functioning as intended on Nexus Mods.
 
 ```txt
 ! Aether's Theme for Nexusmods
-!
 ! MIT License | Copyright (c) 2025 Salem Lockehart
-!
+
 ! ------- Main Page
 ! Removed the blue "Download Collections" section between Games and News & Updates
 www.nexusmods.com##.collections-banner-outer-wrapper-trigger
