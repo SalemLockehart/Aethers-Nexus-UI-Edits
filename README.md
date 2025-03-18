@@ -4,11 +4,6 @@ These UBlockOrigin filters were created to make [Nexus Mods](https://www.nexusmo
 They attempt to waste less space by reducing font size, removing unnesecary padding, UI elements, and headers. They also remove the Popular Collections and Media sections on game pages, as I felt they took away priority from newly released mods, and they can be accessed through the drop down menus at the top of the site.
 
 Additionally, some general cosmetic edits have been included, which remove the background image from Game, and Mod pages, and also fix a cosmetic issue with the upload button at non-standard browser zoom levels.
-### Preview
-![Main Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Main%20Page%20After.jpg?raw=true)
-![Game Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Game%20Page%20After.jpg?raw=true)
-![Mod Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Mod%20Page%20After.png?raw=true)
-![Search Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Search%20Page%20After.png?raw=true)
 
 ### Installation
 * Install [uBlock Origin](https://ublockorigin.com/);
@@ -66,3 +61,8 @@ www.nexusmods.com##.absolute.inset-0.overflow-hidden
 ! Header images will no longer influence the backgroud color of each mod page.
 www.nexusmods.com##:root:style(--body-background-image: none !important;)
 ```
+### Preview
+![Main Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Main%20Page%20After.jpg?raw=true)
+![Game Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Game%20Page%20After.jpg?raw=true)
+![Mod Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Mod%20Page%20After.png?raw=true)
+![Search Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Search%20Page%20After.png?raw=true)
