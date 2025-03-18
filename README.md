@@ -18,7 +18,7 @@ Additionally, some general cosmetic edits have been included, which remove the b
 * Verify that the changes are functioning as intended on Nexus Mods.
 
 ```txt
-! Aether's Theme for Nexusmods
+! Aether's Theme for Nexus Mods
 ! MIT License | Copyright (c) 2025 Salem Lockehart
 
 ! ------- Main Page
