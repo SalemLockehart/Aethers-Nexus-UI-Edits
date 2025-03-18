@@ -5,6 +5,11 @@ They attempt to waste less space by reducing font size, removing unnesecary padd
 
 Additionally, some general cosmetic edits have been included, which remove the background image from Game, and Mod pages, and also fix a cosmetic issue with the upload button at non-standard browser zoom levels.
 ### Preview
+![Main Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Main%20Page%20After.jpg?raw=true)
+![Game Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Game%20Page%20After.jpg?raw=true)
+![Mod Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Mod%20Page%20After.png?raw=true)
+![Search Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Search%20Page%20After.png?raw=true)
+
 ### Installation
 * Install [uBlock Origin](https://ublockorigin.com/);
 * Open uBlock Origin's Dashboard, then navigate to "My Filters"
