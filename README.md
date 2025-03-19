@@ -62,6 +62,7 @@ www.nexusmods.com##.absolute.inset-0.overflow-hidden
 www.nexusmods.com##:root:style(--body-background-image: none !important;)
 ```
 ## Preview
+[Before & After Photos](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/tree/main/Before%20%26%20After%20Pictures)
 ![Main Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Main%20Page%20After.jpg?raw=true)
 ![Game Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Game%20Page%20After.jpg?raw=true)
 ![Mod Page](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/blob/main/Before%20&%20After%20Pictures/Mod%20Page%20After.png?raw=true)
