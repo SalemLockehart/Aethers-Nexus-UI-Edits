@@ -54,8 +54,6 @@ www.nexusmods.com##.pt-6.border-t.border-stroke-weak:style(border-top-width: 0px
 www.nexusmods.com##.sm\:block.p-4.bg-cover.border.rounded-lg.hidden.mt-4.bg-creator-weak.border-creator-subdued
 
 ! ------- General Cosmetic Edits
-! Remove Orange Upload Button Border (Fixes the button displaying incorrectly at non-standard browser zoom levels.)
-www.nexusmods.com##.hover\:\!ring-primary-strong.\!ring-primary-strong.hover\:text-neutral-strong.text-neutral-moderate.hover\:ring-stroke-strong.ring-stroke-moderate.ring-1.hover-overlay.cursor-pointer.min-w-24.px-3.min-h-9.before\:rounded.rounded.items-center.justify-center.flex.\[\&\>\*\:first-child\]\:relative.whitespace-nowrap.transition.relative:style(--tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color) !important)
 ! Game images will no longer influence the background color of each game page.
 www.nexusmods.com##.absolute.inset-0.overflow-hidden
 ! Header images will no longer influence the backgroud color of each mod page.
