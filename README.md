@@ -50,6 +50,8 @@ If you are using a version of this theme from before it was switched over to UBl
 5. Press "Apply changes"
 6. Verify that the changes are functioning as intended on Nexus Mods.
 
+If auto-updates are not functioning properly, or are taking too long after I've released an update to this theme, you can press the clock button next to the filter list you'd like to manually update.
+
 ## Preview
 [Before & After Photos](https://github.com/SalemLockehart/Aethers-Nexus-UI-Edits/tree/main/Before%20%26%20After%20Pictures)
 
