@@ -1,7 +1,7 @@
 # [Aether's](https://next.nexusmods.com/profile/Aether) Theme for Nexus Mods
 These UBlockOrigin filters were created to make [Nexus Mods](https://www.nexusmods.com/)' new UI feel more like its previous iterations.
 
-This theme attempts to waste less space by reducing font size, removing unnecessary padding, UI elements, and headers. It also removes the Popular Collections and Media sections on game pages, as I felt they took away priority from newly released mods, and they can be accessed through the drop-down menus at the top of the site.
+This theme attempts to waste less space by reducing font size, removing unnecessary padding, UI elements, and headers. It also removes the Popular Collections section on game pages, as I felt it took away priority from newly released mods, and collections can be accessed through the drop-down menu at the top of the site.
 
 Additionally, some general cosmetic edits have been included, which remove the background image from Game, and Mod pages, and also fix a cosmetic issue with the upload button at non-standard browser zoom levels.
 
