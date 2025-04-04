@@ -6,3 +6,5 @@
 www.nexusmods.com##.absolute.inset-0.overflow-hidden
 ! Header images will no longer influence the backgroud color of each mod page.
 www.nexusmods.com##:root:style(--body-background-image: none !important;)
+! Changed the Upload button's color from orange to grey, to match the search bar.
+www.nexusmods.com##.hover\:\!border-primary-strong.\!border-primary-strong.hover\:text-neutral-strong.text-neutral-moderate.hover\:border-stroke-strong.border-stroke-moderate.border.hover-overlay.cursor-pointer.min-w-24.px-3.min-h-9.before\:rounded.rounded.items-center.justify-center.flex.\[\&\>\*\:first-child\]\:relative.whitespace-nowrap.transition.relative:style(border-color: #ffffff4d !important)
