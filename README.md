@@ -26,9 +26,8 @@ www.nexusmods.com###rj-vortex
 ! Removed the game title header at the top of the page, add padding for Trending Mods.
 www.nexusmods.com##.pt-4.pb-6
 www.nexusmods.com##section:nth-of-type(1):has-text(Trending Mods):style(padding-top: 1rem !important)
-! Popular Collections and Media sections have been removed.
+! Collections section has been removed.
 www.nexusmods.com##section.pt-16:has-text(Collections)
-www.nexusmods.com##section.pt-16:has-text(Media)
 ! Reduced padding size between Trending and More Mods, removed icons.
 www.nexusmods.com###trending-mods-header > .size-9.shrink-0
 www.nexusmods.com###more-mods-header > .size-9.shrink-0
