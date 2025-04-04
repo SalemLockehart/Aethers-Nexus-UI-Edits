@@ -1,0 +1,8 @@
+! Aether's Costmetic Edits for Nexusmods
+! MIT License | Copyright (c) 2025 Salem Lockehart
+
+! ------- General Cosmetic Edits
+! Game images will no longer influence the background color of each game page.
+www.nexusmods.com##.absolute.inset-0.overflow-hidden
+! Header images will no longer influence the backgroud color of each mod page.
+www.nexusmods.com##:root:style(--body-background-image: none !important;)
