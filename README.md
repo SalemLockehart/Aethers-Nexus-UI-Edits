@@ -3,7 +3,7 @@ These UBlockOrigin filters were created to make [Nexus Mods](https://www.nexusmo
 
 This theme attempts to waste less space by reducing font size, removing unnecessary padding, UI elements, and headers. It also removes the Popular Collections section on game pages, as I felt it took away priority from newly released mods, and collections can be accessed through the drop-down menu at the top of the site.
 
-Additionally, some general cosmetic edits have been included, which remove the background image from Game, and Mod pages, and also fix a cosmetic issue with the upload button at non-standard browser zoom levels.
+Additionally, some general cosmetic edits have been included, which remove the background image from Game, and Mod pages.
 
 ## Overview
 This auto-updating theme utilizes UBlock Origin's Filter Lists to make layout, and cosmetic changes to Nexus Mods. It is semi-modular, allowing you to only install the filter lists you want.
