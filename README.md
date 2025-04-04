@@ -30,6 +30,7 @@ There are two filter lists, each listed below:
 ### Cosmetic Edits (Visual Changes)
 * Game images will no longer influence the background color of each game page.
 * Header images will no longer influence the backgroud color of each mod page.
+* Changed the Upload button's color from orange to grey, to match the search bar.
 ## Installation
 If you are using a version of this theme from before it was switched over to UBlock's Filter List feature, please uninstall it before proceeding.
 
